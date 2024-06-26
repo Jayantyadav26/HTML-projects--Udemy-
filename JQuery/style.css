@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+.big-title{
+    font-size: 10rem;
+    color: yellow;
+    font-family: cursive;
+}
+.margin50{
+    margin: 10px;
+}

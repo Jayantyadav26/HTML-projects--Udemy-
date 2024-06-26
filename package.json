@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
     "fs": "^0.0.1-security",
     "inquirer": "^9.2.19",
+    "nodemon": "^3.1.3",
     "qr-image": "^3.2.0",
     "superheroes": "^3.0.0"
   }
